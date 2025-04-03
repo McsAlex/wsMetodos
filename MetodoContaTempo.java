@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class MetodoContaTempo {
+    
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int segundos = 0;

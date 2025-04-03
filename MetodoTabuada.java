@@ -12,7 +12,7 @@ public class MetodoTabuada {
     }
 
     public static void visualizaTabuada(int numero) {
-        int numTabuada = 0;
+        int numTabuada = 0; 
         System.out.println("TABUADA:");
 
         for(int i=0; i<=numero; i++){
