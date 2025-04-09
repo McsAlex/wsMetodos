@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class metodoMedia {
+public class MetodoMedia {
     public static void main (String[]args){
         Scanner entrada = new Scanner(System.in);
         double nota1,nota2= 0.0;

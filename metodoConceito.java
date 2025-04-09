@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class metodoConceito {
+public class MetodoConceito {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         double nota1, nota2, nota3 = 0;
